@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<
 
     <img src="GIF_WALKTHROUGH.gif" title="Video Walkthrough" width="500" alt="Video Walkthrough" />
 
