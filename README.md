@@ -29,6 +29,7 @@ Here's a walkthrough of implemented features:
 GIF created with ...  
 <!-- [Licecap]https://www.cockos.com/licecap/ 
  -->
+ [Licecap]https://www.cockos.com/licecap/ 
 
 
 ## Notes
